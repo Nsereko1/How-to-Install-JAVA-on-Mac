@@ -2,9 +2,11 @@
 How To Install Java (JDK) and Apache NetBeans (JRE)
 
 Set One - Downwload JDK
+Link - https://www.oracle.com/java/technologies/downloads/
 ![Screenshot 2024-12-13 at 11 05 43](https://github.com/user-attachments/assets/ec4c3aa2-4a4d-470e-b94f-152d03e282bd)
 
 Set Two - Download JRE (Apache NetBeans)
+Link - https://netbeans.apache.org/front/main/download/nb24/
 ![Screenshot 2024-12-13 at 11 06 11](https://github.com/user-attachments/assets/7736e608-ff0f-48d0-86ad-bf47b218248d)
 
 Set Three - Install JDK
